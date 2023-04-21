@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "LDA.canvas",
+                "file": "Synonym and similarity.canvas",
                 "viewState": {
-                  "x": 592.1156503680264,
-                  "y": 881.1648365376652,
-                  "zoom": -1.9205655325055955
+                  "x": 16.5,
+                  "y": -116.5,
+                  "zoom": 0
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDA.canvas",
+                "file": "Synonym and similarity.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDA.canvas",
+                "file": "Synonym and similarity.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDA.canvas"
+                "file": "Synonym and similarity.canvas"
               }
+            }
+          },
+          {
+            "id": "c770e0c25f57dc73",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -149,28 +157,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "88643d25f63c44b0",
   "lastOpenFiles": [
+    "LDA.canvas",
+    "Synonym and similarity.canvas",
     "SECOP/scripts/tmpayqxzg5u",
     "SECOP/scripts/Versiones viejas/ETL_SECOP.ipynb",
     "SECOP/scripts/Versiones viejas/LDAv2.py",
     "SECOP/scripts/Versiones viejas/Carga de datos.py",
     "SECOP/scripts/Versiones viejas/Corpus y diccionario.py",
     "SECOP/scripts/tmp3tt0pirg",
-    "LDA.canvas",
     "SECOP/scripts/tmp0r54urxl",
     "SECOP/scripts/LDAv2.py",
     "SECOP/scripts/LDA.py",
     "SECOP/scripts/tmpbyh27ccn",
-    "SECOP/scripts/run_ensemblelda.py",
     "Extraccion y limpieza DANE/README.md",
     "README.md",
     "Informacion/Using LDA Topic Models as a Classification Model Input  by Marc Kelechava  Towards Data Science.md"

@@ -82,6 +82,7 @@ data/
 *.xls
 *.db
 *.sqlite3
+*.csv
 
 # Log files
 *.log
